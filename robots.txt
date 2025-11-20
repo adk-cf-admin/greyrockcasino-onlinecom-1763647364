@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://greyrockcasino-online.com/
+Sitemap: https://greyrockcasino-online.com/sitemap.xml

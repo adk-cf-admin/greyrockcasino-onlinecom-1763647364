@@ -1,0 +1,197 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#050505",
+            "lang-select-color": "#222829",
+            "bg-light": "#050505",
+            "welcome-bonus-bg": "#050505",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#282626",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#050505",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#CE1D19",
+            "yellow": "#ccbd19",
+            "yellow-button": "#CE1D19",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#1d1b1b",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#050505",
+            "faq-label": "#1d1b1b",
+            "bg-footer": "#050505",
+            "copyright": "#e7e7d5",
+            "starColor": "#ccbd19",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Grey Rock Casino",
+            "title": "Grey Rock Casino | Games, Bonuses, Restaurants & Events",
+            "description": "Discover Grey Rock Casino: top games, bonuses, dining options, bars, hotels, live shows, and special promotions. Your ultimate guide to New Brunswick\u2019s premier casino!\n",
+            "canonical": "greyrockcasino-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/641",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "greyrockcasino-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/642",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/643"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/644",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Grey Rock Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Grey Rock Casino \u2014 Gaming, Dining, and Entertainment in New Brunswick",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/645",
+            "imageSizeModifier": 8,
+            "imageYModifier": -5,
+            "imageXModifier": 5,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/646",
+            "mobileImageSizeModifier": -5,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of modern slot machines",
+                "Live poker tables and tournaments",
+                "Regular bingo sessions for classic fans",
+                "Progressive jackpots with big payouts",
+                "Restaurants with panoramic views and fine dining",
+                "Convenient location near Trans-Canada Highway",
+                "Stay & Play packages with top local hotels"
+            ],
+            "advantagesAfterText": "Grey Rock Casino offers a perfect mix of gaming, dining, and accommodation. It\u2019s an ideal destination for entertainment, relaxation, and events in New Brunswick.\n",
+            "knowMore": "Know more",
+            "appTitle": "Grey Rock Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/647",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Grey Rock Casino App",
+            "mobileGooglePlayImageTitle": "Grey Rock Casino App",
+            "mobileIosImageTitle": "Grey Rock Casino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Grey Rock Casino",
+                "description1": "Grey Rock Casino delivers big jackpots, generous bonuses, and frequent wins, making it a top choice for gaming enthusiasts.\n",
+                "items": [
+                    "Jackpots up to CAD 100,000",
+                    "New player bonuses up to CAD 500",
+                    "Daily slot machine payouts"
+                ],
+                "description2": "Grey Rock Casino is a modern gaming destination in New Brunswick. Guests enjoy spacious gaming floors with a variety of slots and table games. The casino offers a welcoming atmosphere and excellent service. Poker and bingo enthusiasts will find great opportunities to play. Restaurants serve local and international cuisine. Lounge areas are perfect for relaxation and socializing. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/648",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Conveniently located near the highway and hotels. Visitors can take advantage of Stay & Play packages. The venue hosts concerts, shows, and corporate events. Grey Rock Casino is where excitement meets comfort."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Grey Rock Casino \u2014 Style, Comfort, and Excitement in New Brunswick",
+                "description": "<p>\nGrey Rock Casino is a destination where modern style meets comfort and excitement. The interior features elegant tones and designer details, creating a premium atmosphere for gaming and relaxation. Guests enjoy a vibrant yet welcoming environment, perfect for both thrilling games and laid-back lounge experiences.\n\n<\/p>\n<br>\n<p>\nThe casino operates daily with flexible hours, ensuring visitors can play whenever they choose. Spacious gaming floors offer state-of-the-art slots and hybrid tables, while poker and bingo enthusiasts have dedicated areas. It\u2019s a year-round hub for entertainment and gaming.\n\n<\/p>\n<br>\n<p>\nFor culinary lovers, Grey Rock boasts several bars and restaurants. Fiddlehead Caf\u00e9 & Lounge serves light meals and cocktails, while Valley View Restaurant impresses with steaks and panoramic views of the gaming floor. Bars provide the ideal setting for socializing after an exciting day.\n\n<\/p>\n<br>\n<p>\nGuests can take advantage of Stay & Play packages with accommodations at top local hotels, including Quality Hotel, Comfort Inn, and Four Points by Sheraton. This makes Grey Rock a convenient choice for travelers and corporate groups seeking comfort and service.\n\n<\/p>\n<br>\n<p>\nGrey Rock Casino is also known for its entertainment events: concerts, live shows, and private parties are hosted in spacious venues. Regular visitors benefit from the Totem Rewards loyalty program, offering bonuses, discounts, and exclusive perks. Every visit brings new experiences and winning opportunities.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGrey Rock Casino \u2014 Service, Convenience, and Global Comfort\n<\/h3>\n\n<p>\nAt Grey Rock Casino, staff primarily communicate in English, which aligns with service standards in New Brunswick. However, many employees also speak French, reflecting the cultural diversity of the region and its proximity to francophone communities. This ensures a welcoming environment for guests from different countries and makes communication smooth and friendly.\n\n<\/p>\n<br>\n<p>\nPayment methods at the casino are designed for maximum convenience. Both cash and major international credit cards are accepted, along with electronic payment options for those who prefer cashless transactions. All processes are fast and secure, providing a high level of customer confidence.\n\n<\/p>\n<br>\n<p>\nFor added convenience, ATMs are available throughout the casino, allowing guests to withdraw cash at any time. Currency exchange services are also provided, making Grey Rock Casino an attractive destination for international visitors. This is especially beneficial for players traveling from the U.S. or other countries, as they can easily convert funds without hassle.\n\n<\/p>\n<br>\n<p>\nGrey Rock Casino ensures every visit is comfortable and stress-free. Modern payment solutions, accessible ATMs, currency exchange points, and multilingual staff create an atmosphere of trust and convenience. Here, every guest feels confident and well taken care of, no matter where they come from.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGrey Rock Casino Visitor Rules \u2014 Comfort and Safety for Guests\n<\/h3>\n\n<p>\nGrey Rock Casino ensures every visit is enjoyable and secure. A dress code is in place, requiring neat and presentable attire. Sportswear, beachwear, and overly revealing outfits are discouraged to maintain a stylish and comfortable atmosphere.\n\n<\/p>\n<br>\n<p>\nEntry is restricted to adults only, and guests must present valid identification. It\u2019s important to note that photography of gaming tables and the use of electronic devices during play are prohibited. Aggressive behavior or violations of etiquette are also not allowed.\n\n<\/p>\n<br>\n<p>\nFor convenience, the casino offers ample parking, and it is easily accessible via the Trans-Canada Highway, making it a great destination for both tourists and locals. Located near hotels, Grey Rock Casino allows visitors to combine gaming with relaxation.\n\n<\/p>\n<br>\n<p>\nGrey Rock Casino is committed to providing a safe and welcoming environment where every guest feels comfortable. Following these rules helps maintain high service standards and ensures a pleasant experience.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Key Rules<\/h4>\n\n <ul>\n            <li>\u2022 \nDress Code: neat attire, no sports or beachwear\n\n<\/li>\n            <li>\u2022 \nEntry Conditions: adults only, valid ID required\n\n<\/li>\n            <li>\u2022 \nRestrictions: no photos of gaming areas, no gadgets at tables, no aggressive behavior\n\n<\/li>\n            <li>\u2022 \nParking: free and convenient, close to the casino\n\n<\/li>\n\t    <li>\u2022 \nDirections: accessible via Trans-Canada Highway, near hotels\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nTotem Rewards \u2014 Grey Rock Casino Loyalty Program with Exclusive Bonuses\n<\/h3>\n\n<p>\nThe Totem Rewards loyalty program at Grey Rock Casino is designed to make every visit more rewarding. Members enjoy access to exclusive promotions, draws, and events, along with the ability to earn points for every dollar played. Membership is free, registration takes just minutes, and benefits start immediately.\n\n<\/p>\n<br>\n<p>\nThe main advantage of Totem Rewards is its point system: players earn one point for every dollar spent. Points can be redeemed for free play, dining, or boutique items. New members receive a welcome bonus in free play and have the chance to win extra prizes during their first days.\n\n<\/p>\n<br>\n<p>\nThe program features tiers that unlock greater privileges. The more you play, the higher your status and the more bonuses you receive. Benefits include birthday offers, exclusive draws, and the chance to win up to CAD 500 cash during your birthday month.\n\n<\/p>\n<br>\n<p>\nTotem Rewards makes gaming fun and profitable. Ongoing promotions, personalized offers, and flexible point redemption options make this one of the best loyalty programs in New Brunswick casinos.\n\n<\/p>\n<br>\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Registration Requirements\n\n\n<\/h4>\n            <ul>\n            <li>\u2022 \nAge: 19+\n\n<\/li>\n            <li>\u2022 \nValid photo ID for verification\n\n<\/li>\n            <li>\u2022 \nFree registration at the Rewards Desk\n<\/li>\n        <\/ul>\n        <br>\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Program Levels\n<\/h4>\n            <ul>\n            <li>\u2022 \nBasic Level: earn points and redeem for free play\n\n<\/li>\n            <li>\u2022 \nAdvanced Level: extra promotions and draws\n\n<\/li>\n            <li>\u2022 \nVIP Level: exclusive events, personalized offers, maximum bonuses\n<\/li>\n    \n        <\/ul>\n        <br>\n       \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Bonuses and Perks\n<\/h4>\n        <ul>\n            <li>\u2022 \nWelcome bonus: CAD 10 Free Play\n\n<\/li>\n            <li>\u2022 \nExtra chance: Swipe & Win up to CAD 100\n\n\n<\/li>\n            <li>\u2022 \nPoints: 1 point per dollar played\n\n<\/li>\n       \n            <li>\u2022 \nRedemption: 5000 points = CAD 5 for play or dining\n\n<\/li>\n            <li>\u2022 \nBirthday bonus: up to CAD 500 cash during birthday month\n\n<\/li>\n            <li>\u2022 \nExclusive member-only promotions and draws\n\n<\/li>\n \n        <\/ul><br>\n   \n    <\/div>\n<\/div>\n<br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at Grey Rock Casino",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and Special Offers at Grey Rock Casino \u2014 Maximum Fun and Rewards\n<\/h3>\n\n<p>\nGrey Rock Casino offers guests not only exciting games but also a wide range of bonuses, special deals, and seasonal events. These promotions create extra winning opportunities and make every visit more enjoyable. The casino regularly hosts themed nights, holiday draws, and special gaming tournaments that attract both beginners and experienced players.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to bonuses for slot and table game enthusiasts. Guests can receive free play credits, participate in cash prize draws, and win gift certificates. Seasonal events such as New Year promotions or summer festivals come with exclusive prizes and additional chances to win.\n\n<\/p>\n<br>\n<p>\nGrey Rock Casino also entertains guests with live shows and concerts, often featuring ticket giveaways and special gifts. Restaurants and bars offer exclusive deals, combining gaming excitement with culinary pleasure. Every promotion is designed to make each visit memorable and rewarding.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Bonuses and Offers<\/h4>\n\n <ul>\n            <li>\u2022 \nFree Play bonuses: up to CAD 20 on slot machines under certain conditions\n<\/li>\n            <li>\u2022 \nWeekly cash draws: prizes up to CAD 1,000\n\n<\/li>\n            <li>\u2022 \nSlot tournaments: extra credits and chances to win up to CAD 5,000\n\n<\/li>\n            <li>\u2022 \nSeasonal promotions: holiday and summer draws with prizes up to CAD 10,000\n\n<\/li>\n\t    <li>\u2022 \nHoliday perks: free drinks and show tickets during major events\n\n<\/li>\n\t    <li>\u2022 \nSpecial dining offers: discounts up to 25% at casino restaurants\n\n<\/li>\n\t    <li>\u2022 \nConcert giveaways: tickets for live performances and VIP packages\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Grey Rock Casino \u2014 Excitement for Every Player\n<\/h3>\n\n<p>\nGrey Rock Casino offers a wide range of games designed to satisfy fans of both classic entertainment and modern technology. The gaming floor features slot machines with vibrant graphics and progressive jackpots, giving players the chance to win big. For those who enjoy live interaction, poker tables and hybrid games combine traditional casino elements with digital innovation.\n\n<\/p>\n<br>\n<p>\nBingo remains one of the most popular games, offering a friendly atmosphere and regular prize draws. The casino also hosts slot and poker tournaments, where participants can compete for extra rewards and bonuses. All games are supported by advanced security systems and user-friendly interfaces, ensuring a smooth and enjoyable experience.\n\n<\/p>\n<br>\n<p>\nGrey Rock Casino continually updates its game selection, adding new machines and interactive entertainment. It\u2019s a destination where excitement meets innovation, and every visit brings something new.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Popular Games<\/h4>\n\n <ul>\n            <li>\u2022 \nSlot Machines \u2014 hundreds of games with progressive jackpots and stunning visuals\n\n<\/li>\n            <li>\u2022 \nPoker \u2014 live tables and tournaments for pros and beginners\n\n<\/li>\n            <li>\u2022 \nBingo \u2014 regular sessions with prizes and a social vibe\n\n<\/li>\n            <li>\u2022 \nHybrid Games \u2014 blending traditional tables with digital features\n\n<\/li>\n\t    <li>\u2022 \nTournaments \u2014 special events with extra bonuses and big wins\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n Minimum and Maximum Bets at Grey Rock Casino\n<\/h3>\n\n<p> \nGrey Rock Casino offers flexible betting options for players of all budgets. Minimum bets are designed for casual gamers, while maximum limits cater to high rollers seeking excitement. Slot machines feature low entry points, and table games provide a broader range for strategic play.\n\n<\/p><br>\n\n\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#CE1D19; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slot Machines<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CAD 0.25 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CAD 5 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CAD 5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> CAD 100<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CAD 10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CAD 500<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CAD 2 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> CAD 200<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Bingo<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CAD 1 per card<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CAD 50\n<\/td>\n                <\/tr>\n          <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Electronic Games<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$1.00<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$100.00<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n<p>\nThese ranges ensure every visitor can enjoy gaming at their preferred level.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at Grey Rock Casino \u2014 Shows, Parties, and Nightlife\n<\/h3>\n\n<p> \nGrey Rock Casino is not just about gaming; it\u2019s a hub for vibrant events and entertainment. The venue regularly hosts concerts, themed parties, and live shows that create a festive atmosphere for all guests. Spacious halls allow for large-scale events, including corporate parties, weddings, and private banquets.\n\n<\/p>\n<br>\n<p> \nRegular entertainment programs are a highlight of Grey Rock. Lounge areas and bars often feature live music, while themed nights with local performers attract fans of quality leisure. The casino also organizes special holiday promotions, including New Year shows, summer festivals, and prize draws.\n\n<\/p>\n<br>\n<p> \nFor nightlife enthusiasts, Grey Rock offers a club-like experience. Evening events include DJ sets, dance parties, and cocktail specials, making every night unforgettable.\n\n<\/p>\n<br>\n<p> \nGuests can also enjoy culinary events such as wine tastings and themed dinners. All activities are designed to create a unique experience that combines gaming, music, and stylish relaxation.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Entertainment and Events<\/h4>\n <ul>\n            <li>\u2022 \nConcerts and live shows \u2014 performances by local and guest artists\n\n<\/li>\n            <li>\u2022 \nThemed parties \u2014 retro nights, jazz evenings, summer festivals\n\n<\/li>\n            <li>\u2022 \nDJ sets and dance nights \u2014 club atmosphere for nightlife lovers\n\n<\/li>\n            <li>\u2022 \nCulinary events \u2014 wine tastings, special dinners, and restaurant promotions\n\n<\/li>\n\t    <li>\u2022 \nHoliday specials \u2014 New Year shows, prize draws, summer celebrations\n\n<\/li>\n\t    <li>\u2022 \nCorporate and private parties \u2014 weddings, banquets, business events\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, Restaurants, and Relaxation at Grey Rock Casino \u2014 Dining and Comfort\n<\/h3>\n\n<p>\nGrey Rock Casino offers guests more than gaming; it provides a complete leisure experience with top-notch service. Inside the complex, stylish bars and restaurants serve local and international cuisine. The ambiance combines modern design with comfort, creating the perfect setting for relaxation after play.\n\n<\/p>\n<br>\n<p>\nCulinary diversity is a highlight here. Fiddlehead Caf\u00e9 & Lounge is ideal for light snacks, cocktails, and casual conversations. Valley View Restaurant impresses with steaks and dishes made from fresh regional ingredients, complemented by panoramic views of the gaming floor. The casino bar offers a wide selection of drinks and hosts evening specials and tastings.\n\n<\/p>\n<br>\n<p>\nFor travelers, Stay & Play packages include accommodations at top hotels in the region. Partners include Quality Hotel, Comfort Inn, and Four Points by Sheraton, making Grey Rock Casino a convenient choice for combining gaming with comfortable lodging.\n\n<\/p>\n<br>\n<p>\nBeyond dining and accommodations, guests can enjoy lounge areas with a relaxed atmosphere. These spaces often feature live music, tastings, and themed events, creating a unique experience for every visitor.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Places to Dine and Stay\n\n<\/h4>\n        <ul>\n            <li>\u2022 \nFiddlehead Caf\u00e9 & Lounge \u2014 light meals, cocktails, live music\n\n<\/li>\n            <li>\u2022 \nValley View Restaurant \u2014 steaks, signature dishes, panoramic views\n\n<\/li>\n            <li>\u2022 \nCasino Bar \u2014 wide drink selection, evening specials\n\n<\/li>\n            <li>\u2022 \nQuality Hotel \u2014 comfortable rooms, direct access to casino\n\n<\/li>\n\t    <li>\u2022 \nComfort Inn \u2014 affordable lodging with great service\n\n<\/li>\n            <li>\u2022 \nFour Points by Sheraton \u2014 premium accommodations for travelers and business guests\n\n<\/li>\n            <li>\u2022 \nLounge Areas \u2014 relaxation, music, themed nights\n\n<\/li>\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Is there an entrance fee?",
+                    "answer": "No, admission to Grey Rock Casino is free for all adult visitors.\n\n\n"
+                },
+                {
+                    "title": "What are the casino\u2019s operating hours?",
+                    "answer": "Open daily: 10:00 AM to midnight on weekdays and until 2:30 AM on weekends.\n\n\n"
+                },
+                {
+                    "title": "What payment methods are accepted?",
+                    "answer": "Cash, major credit cards, and electronic payments are accepted. ATMs and currency exchange are available.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/649",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Grey Rock Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
